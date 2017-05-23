@@ -11,15 +11,17 @@
 
 ```
 
-My name is:
+My name is: WisherBG
 
-I like to:
+I like to: Learn new stuff while conquering challenges
 
-I'm learning:
+I'm learning: Front-end dev, bash, golang
 
 ```
 
 4. Add a screenshot (.jpg or .png is fine) of a tweet you've altered using Inspect Element in Chrome to the project folder.
+
+![ChangedTweet](changedtweet.png)
 
 4. Push it up to your own repository on Github (don't try to override the original).
 
